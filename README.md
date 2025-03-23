@@ -6,7 +6,7 @@
 
 <ul>
   <li style="font-size: 1.2em; font-weight: bold;">🌱 I’m currently learning <strong>react-native</strong></li>
-  <li style="font-size: 1.2em; font-weight: bold;">📫 How to reach me <strong>ashmitdutta81@gmail.com</strong></li>
+  <li style="font-size: 1.2em; font-weight: bold;">📫 How to reach me <a href = "ashmitdutta81@gmail.com"><strong>ashmitdutta81@gmail.com </strong></li>
   <li style="font-size: 1.2em; font-weight: bold;">📄 Know about my experiences <a href="https://drive.google.com/file/d/1jwBjBbtIgTPnYu3LUfr_2yHaaUcjUzWO/view?usp=drive_link"><strong>Drive/Ashmit-Dutta</strong></a></li>
   <li style="font-size: 1.2em; font-weight: bold;">⚡ Fun fact <strong>I can snap some epic shots</strong></li>
 </ul>
