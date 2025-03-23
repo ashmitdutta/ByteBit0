@@ -43,7 +43,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBit0&theme=dark" alt="ByteBit0 Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=ByteBit0&show_icons=true&locale=en&theme=dark" alt="ByteBit0 GitHub Stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBit0&theme=dark" alt="ByteBit0 Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ByteBit0&show_icons=true&locale=en&layout=compact&theme=dark" alt="ByteBit0 Top Langs" />
 </p>
