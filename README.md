@@ -2,10 +2,13 @@
 <h3 align="center">An ambivert Human</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
-- 🌱 I’m currently learning **react-native**
-- 📫 How to reach me **ashmitdutta81@gmail.com**
-- 📄 Know about my experiences [Drive/Ashmit-Dutta](https://drive.google.com/file/d/1jwBjBbtIgTPnYu3LUfr_2yHaaUcjUzWO/view?usp=drive_link)
-- ⚡ Fun fact **I can snap some epic shots**
+<ul>
+  <li style="font-size: 1.2em; font-weight: bold;">🌱 I’m currently learning <strong>react-native</strong></li>
+  <li style="font-size: 1.2em; font-weight: bold;">📫 How to reach me <strong>ashmitdutta81@gmail.com</strong></li>
+  <li style="font-size: 1.2em; font-weight: bold;">📄 Know about my experiences <a href="https://drive.google.com/file/d/1jwBjBbtIgTPnYu3LUfr_2yHaaUcjUzWO/view?usp=drive_link"><strong>Drive/Ashmit-Dutta</strong></a></li>
+  <li style="font-size: 1.2em; font-weight: bold;">⚡ Fun fact <strong>I can snap some epic shots</strong></li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
