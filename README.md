@@ -1,6 +1,8 @@
 [![Description of GIF](https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif)](https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif)
+<h1 align="center">Hi , I'm Ashmit Dutta</h1>
 <h3 align="center">An ambivert Human</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+
 
 <ul>
   <li style="font-size: 1.2em; font-weight: bold;">🌱 I’m currently learning <strong>react-native</strong></li>
