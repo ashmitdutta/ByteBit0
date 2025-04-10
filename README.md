@@ -1,5 +1,5 @@
 [![Description of GIF](https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif)](https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ByteBit0&label=Profile%20views&color=0e75b6&style=flat" alt="ByteBit0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmitdutta&label=Profile%20views&color=0e75b6&style=flat" alt="ashmitdutta" /> </p>
 <h1 align="center">Hi , I'm Ashmit Dutta</h1>
 <h3 align="center">An ambivert Human</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
@@ -49,7 +49,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteBit0&show_icons=true&locale=en&theme=dark" alt="ByteBit0 GitHub Stats" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBit0&theme=dark" alt="ByteBit0 Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ByteBit0&show_icons=true&locale=en&layout=compact&theme=dark" alt="ByteBit0 Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashmitdutta&show_icons=true&locale=en&theme=dark" alt="ashmitdutta GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashmitdutta&show_icons=true&locale=en&layout=compact&theme=dark" alt="ashmitdutta Top Langs" />
 </p>
